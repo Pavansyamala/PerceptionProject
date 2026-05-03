@@ -112,9 +112,7 @@ Rays are transformed to world coordinates and intersected using least squares:
 ```
 ├── src/                # Core implementation
 ├── data/               # Dataset (optional)
-├── outputs/            # Results / predictions
 ├── docs/               # Report PDF
-├── notebooks/          # Jupyter notebooks
 ├── README.md
 ```
 
