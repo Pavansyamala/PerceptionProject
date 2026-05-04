@@ -7,7 +7,8 @@
 
 * **Kasa Pavan** (Roll No: 26738)
   Email: [kasapavan@iisc.ac.in](mailto:kasapavan@iisc.ac.in)
-* **Vidhyasagar Murugan**
+* **Vidhyasagar Murugan** (Roll No: 27287)
+  Email : [vidhyasagarm@iisc.ac.in](mailto:vidhyasagarm@iisc.ac.in)
 
 ---
 
